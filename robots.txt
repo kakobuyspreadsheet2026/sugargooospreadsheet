@@ -1,0 +1,5 @@
+# https://sugargooospreadsheet.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://sugargooospreadsheet.com/sitemap.xml
